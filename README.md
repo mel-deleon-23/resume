@@ -1,7 +1,7 @@
 # Melissa De Leon
 Hi! My name is Melissa, I'm 26 years old born and raised in Toronto. I'm a UX/UI and Graphic Designer. Here is the link to my portfolio of my work and my LinkedIn profile. On my free time I like playing games on my PC, watching movies, and scrolling endlessly through Tiktok.
 
-![My profile picture](profile-pic-github.jpg)
+![My profile picture](melissa-deleon.jpg)
 
 
 | Project | Description | Technology | 
