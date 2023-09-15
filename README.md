@@ -3,8 +3,11 @@ Hi! My name is Melissa, I'm 26 years old born and raised in Toronto. I'm a UX/UI
 
 ![My profile picture](profile-pic-github.jpg)
 
-| Projects | [Updating PsyMood website](https://www.melissa-deleon.ca/psymood-website) | 
-| My role as a UX/Graphic Designer is discussing & suggesting ways to improve the platform to bring clients to book a session with a specialist who share and speak the same language as them and understand their culture.  | Wordpress | Figma
+
+| Project | Description | Technology | 
+| ----------- | ----------- | ----------- |
+| PsyMood [Updating PsyMood website](https://www.melissa-deleon.ca/psymood-website) | My role as a UX/Graphic Designer is discussing & suggesting ways to improve the platform to bring clients to book a session with a specialist who share and speak the same language as them and understand their culture. | Wordpress & Figma |
+
 
 ## Education
 1. Centennial College - Graphic Design - Advanced Diploma
